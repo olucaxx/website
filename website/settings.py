@@ -32,7 +32,8 @@ ALLOWED_HOSTS = [
     '.herokuapp.com',
     'localhost', 
     '127.0.0.1',
-    'pereiralucas.dev'
+    'pereiralucas.dev',
+    'www.pereiralucas.dev'
 ]
 
 # Configuração de static files
